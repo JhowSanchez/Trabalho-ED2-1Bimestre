@@ -6,7 +6,7 @@
 <p><strong>[F4]</strong> Carregar planilha</p>
 <p><strong>[F5]</strong> Gerar grafico</p>
 <p><strong>[ESC]</strong> Sair</p>
-<h1 style ="background-color: blue;" >
+<h1>
   Obs.: Para gerar o grafico irei ilustrar como funciona
 
  
