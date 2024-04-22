@@ -1,4 +1,4 @@
-<P>Trabalho de Estrutura de Dados 2, criação de um excel em C com estruturas, union, Listas Dinamicas e Listas Generalizadas</P>
+Trabalho de Estrutura de Dados 2, criação de um excel em C com estruturas, union, Listas Dinamicas e Listas Generalizadas
 
 <h1>
   Comandos:
